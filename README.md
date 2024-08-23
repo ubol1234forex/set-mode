@@ -1,2 +1,2 @@
-1 ccminer
+1 ccminer/
 2 hansen33s-dero
